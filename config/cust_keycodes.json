@@ -1,0 +1,19 @@
+[
+	{
+		"names": [
+			"#GPK30ibk"
+		],
+		"description": "#GPK30ibk",
+		"clarify": false,
+		"documentation": "",
+		"os": {
+			"windows": true,
+			"linux": true,
+			"android": true,
+			"macos": true,
+			"ios": true
+		},
+		"footnotes": {},
+		"type": "UD"
+	}
+]
